@@ -1,6 +1,4 @@
 # limau
-cepat
-seragam
-sederhana
+cepat simple powerfull
 
-kumpulan library sederhana
+kumpulan library sederhana yang bisa dijoinkan ke framework mana saja.
