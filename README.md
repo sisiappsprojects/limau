@@ -1,4 +1,6 @@
 # limau
 cepat
 seragam
-easy akses
+sederhana
+
+kumpulan library sederhana
