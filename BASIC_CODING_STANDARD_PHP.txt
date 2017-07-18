@@ -1,0 +1,16 @@
+/*
+*	Title	: Basic Standarisasi Code 
+* 	Source	: http://www.php-fig.org/psr/psr-1/
+*	Penulis	: Limau Team (SiSi)
+*/
+
+---------
+OVERVIEW
+---------
+1. Tag pada file PHP harus menggunakan <?php dan <?= .
+2. File PHP harus memiliki tipe karakter UTF-8.
+3. Pada pendefinisian tidak diperbolehkan menggunakan simbol diantaranya. (Pendefinisian class, function, constant)
+4. Penamaan class harus dideklarasikan dengan konsep StudlyCaps. (Setiap kata harus diawali kapital ex: LoginForm)
+5. Penamaan class constant harus dideklarasikan dengan seluruh huruf kapital dengan kata penghubung underscore. (ex: const SEC_PER_DAY)
+6. Penamaan fungsi/method harus dideklarasikan dengan konsep camelCase. (ex: loginFunction)
+
