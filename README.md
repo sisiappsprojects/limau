@@ -1,4 +1,2 @@
 # limau
-cepat
-seragam
-easy akses
+cepat simple powerful
