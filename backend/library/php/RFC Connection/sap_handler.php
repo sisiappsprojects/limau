@@ -149,6 +149,10 @@
 		}
 	}
 
+	/*
+	*	TESTING CODE
+	*/
+
 	$send 			= new Sap_handler('sapclasses/logon_data30.conf','sapclasses/sap.php');
 	$send->connectSAP();
 	$arrayInput 	= array('XVKORG'=>'7000',
