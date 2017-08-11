@@ -94,10 +94,10 @@
 	/*
 	*	TESTING CODE
 	*/
-	$ipldap 	= "ldap://10.15.3.120";
-	$domain 	='SMIG';
-	$dcName 	="dc=SMIG,dc=CORP";
-	$port 		= 389;
+	$ipldap 	= "";
+	$domain 	='';
+	$dcName 	="";
+	$port 		= ;
 	
 	/*
 	* LDAP AUTHORIZATION
