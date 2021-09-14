@@ -66,6 +66,9 @@
 				$resultLogin = $this->checkLogon($username,$password,$option);
 				
 				return $resultLogin;
+				return array('SUKSES',ldap_get_entries($ldap, $result));
+
+				
 			}
 		}
 
